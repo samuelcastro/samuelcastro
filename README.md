@@ -1,6 +1,6 @@
 ### Hi there, I'm Samuel Silva 👋
 
-
+- 🔭 I’m currently working on SnapOne in Charlotte, NC, USA
 - 🌱 I’m learning Serverless, SwiftUI and Golang.
 - 💬 Ask me about JavaScript, Books, Meditation and Brazilian Jiu Jitsu (BJJ).
 - 📫 How to reach me: [Twitter](https://twitter.com/samuelcasilva).
