@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Samuel Silva 👋
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on SnapOne in Charlotte, NC, USA
 - 🌱 I’m currently learning Serverless, SwiftUI and Golang
