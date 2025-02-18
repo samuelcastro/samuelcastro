@@ -1,6 +1,6 @@
 ### Hi there, I'm Samuel Silva 👋
 
-- 🔭 CEO & Founder of [Linkeen](https://linkeen.com)
+- 🔭 Loving to learn and create tools using AI.
 - 🌱 I’m learning Serverless, SwiftUI and Golang.
 - 💬 Ask me about JavaScript, React, Node.js, Books, Meditation and Brazilian Jiu Jitsu (BJJ).
 - 📫 How to reach me: [Twitter - @samuelcasilva](https://twitter.com/samuelcasilva).
