@@ -2,7 +2,7 @@
 
 - 🔭 Loving to learn and create AI solutions.
 - 💬 Ask me about AI, JS, Python, React, Books, Stoicism.
-- 📫 How to reach me: [Twitter - @samuelcasilva](https://twitter.com/samuelcasilva).
+- 📫 How to reach me: [X - @samsillva](https://x.com/samsillva).
 - ⚡ Fun fact: In 20216, I moved from Brazil to Canada. Then, 2021, I moved to the USA and I became Brazilian, Canadian & American.
 - 😍 I love to read, travel, learn new technologies, build solutions and to practice crossfit.
 
